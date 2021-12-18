@@ -7,5 +7,5 @@
 * render()
 * state
 * props
-
+* router
 
